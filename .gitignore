@@ -6,3 +6,11 @@ coverage/
 *.log
 .env*
 !.env.example
+.firebase/
+.vscode/
+.idea/
+
+firebase-debug.log
+.npmrc
+firebase.json
+.firebaserc

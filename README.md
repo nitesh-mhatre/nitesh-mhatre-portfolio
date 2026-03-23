@@ -2,6 +2,8 @@
 
 A modern, interactive portfolio and resume website built with **React**, **TypeScript**, and **Tailwind CSS**. Features a clean, professional design with dark/light theme support and PDF download capability.
 
+[![Resume](https://img.shields.io/badge/Resume-Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nitesh-mhatre-resume.web.app/)
+
 
 ## Features
 
