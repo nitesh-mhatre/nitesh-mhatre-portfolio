@@ -4,7 +4,7 @@ export const RESUME_DATA = {
   summary: "Analytical engineer with strong skills in SQL, Python, and data visualization. Passionate about extracting insights from complex data to drive informed decision-making. Detail-oriented problem solver with a drive to contribute to data-driven strategies as a Data Analyst.",
   contact: {
     email: "n.mhatre90@gmail.com",
-    phone: "7276813714",
+    phone: "727XXXXXXXX",
     location: "Thane, IN",
     dob: "01. August 1990",
   },
@@ -50,7 +50,7 @@ export const RESUME_DATA = {
     "Python", "SQL", "Advance Excel", "Excel", "Power BI", "ETL", 
     "Data Visualization", "Machine Learning", "Sklearn", "JavaScript", 
     "JIRA", "Numpy", "Rest API", "Root Cause Analysis", "Linux", 
-    "AWS", "Git/GitHub", "Docker", "VBA", "Django/Flask", "pandas"
+    "AWS", "Git/GitHub", "Docker", "VBA", "Django/Flask", "Pandas"
   ],
   otherExperience: {
     company: "Tata Steel LTD",

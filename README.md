@@ -109,56 +109,6 @@ src/
 ├── tsconfig.json          # TypeScript configuration
 └── package.json           # Dependencies and scripts
 ```
-
----
-
-## 💼 Experience Highlights
-
-### Current Role
-**Python Developer** at Revvity Healthcare (India) Pvt Ltd. (2025 - Present)
-- Developing asynchronous Python-based framework for embedded systems
-- Optimizing performance for Raspberry Pi deployment
-- Collaborating on critical bug fixes and product releases
-
-### Previous Roles
-- **Deputy Manager** at Reliance Jio Infocomm Ltd (2022-2025)
-- **Assistant Manager** at Tata Steel LTD (2019-2022)
-- **Maintenance Operations** at Tata Steel LTD (2013-2019)
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering**  
-Finolex Academy of Management and Technology, Ratnagiri
-
----
-
-## 💡 Key Skills
-
-- **Programming:** Python, JavaScript, SQL, VBA
-- **Data & Analytics:** Power BI, Data Visualization, ETL, Machine Learning, Sklearn, Pandas, Numpy
-- **Web Development:** Django, Flask, REST API, React
-- **Tools & Platforms:** Git/GitHub, JIRA, Docker, AWS, Linux
-- **Other:** Advanced Excel, Root Cause Analysis
-
----
-
-## 🌐 Languages
-
-- English
-- Hindi
-- Marathi
-
----
-
-## 📞 Contact & Links
-
-- **Email:** n.mhatre90@gmail.com
-- **Phone:** +91-7276813714
-- **Location:** Thane, India
-- **DOB:** August 1, 1990
-
 ---
 
 ## 📜 License
