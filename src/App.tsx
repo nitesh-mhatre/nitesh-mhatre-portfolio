@@ -131,7 +131,7 @@ export default function App() {
 
         <footer className="max-w-4xl mx-auto py-12 px-6 border-t border-zinc-200 dark:border-zinc-800 text-center transition-colors duration-300">
           <p className="text-xs text-zinc-400 dark:text-zinc-500 uppercase tracking-widest">
-            &copy; 2026 {RESUME_DATA.name} • Built with React & Tailwind
+            {RESUME_DATA.name} • Built with React & Tailwind
           </p>
         </footer>
       </div>
