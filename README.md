@@ -45,7 +45,7 @@ A modern, interactive portfolio and resume website built with **React**, **TypeS
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>](https://github.com/nitesh-mhatre/nitesh-mhatre-portfolio.git
+   git clone https://github.com/nitesh-mhatre/nitesh-mhatre-portfolio.git
    cd nitesh-mhatre-portfolio
    ```
 
